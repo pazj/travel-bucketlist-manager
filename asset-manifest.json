@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/travel-bucketlist/static/css/main.d5d1d1d2.chunk.css",
-    "main.js": "/travel-bucketlist/static/js/main.bb171457.chunk.js",
-    "main.js.map": "/travel-bucketlist/static/js/main.bb171457.chunk.js.map",
-    "runtime-main.js": "/travel-bucketlist/static/js/runtime-main.3176daa7.js",
-    "runtime-main.js.map": "/travel-bucketlist/static/js/runtime-main.3176daa7.js.map",
-    "static/js/2.d330b8ab.chunk.js": "/travel-bucketlist/static/js/2.d330b8ab.chunk.js",
-    "static/js/2.d330b8ab.chunk.js.map": "/travel-bucketlist/static/js/2.d330b8ab.chunk.js.map",
-    "static/js/3.6b21b240.chunk.js": "/travel-bucketlist/static/js/3.6b21b240.chunk.js",
-    "static/js/3.6b21b240.chunk.js.map": "/travel-bucketlist/static/js/3.6b21b240.chunk.js.map",
-    "index.html": "/travel-bucketlist/index.html",
-    "static/css/main.d5d1d1d2.chunk.css.map": "/travel-bucketlist/static/css/main.d5d1d1d2.chunk.css.map",
-    "static/js/2.d330b8ab.chunk.js.LICENSE.txt": "/travel-bucketlist/static/js/2.d330b8ab.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/travel-bucketlist/static/media/Wave1.a76691d4.svg"
+    "main.css": "/travel-bucketlist-manager/static/css/main.07427c54.chunk.css",
+    "main.js": "/travel-bucketlist-manager/static/js/main.bb171457.chunk.js",
+    "main.js.map": "/travel-bucketlist-manager/static/js/main.bb171457.chunk.js.map",
+    "runtime-main.js": "/travel-bucketlist-manager/static/js/runtime-main.32513c6c.js",
+    "runtime-main.js.map": "/travel-bucketlist-manager/static/js/runtime-main.32513c6c.js.map",
+    "static/js/2.d330b8ab.chunk.js": "/travel-bucketlist-manager/static/js/2.d330b8ab.chunk.js",
+    "static/js/2.d330b8ab.chunk.js.map": "/travel-bucketlist-manager/static/js/2.d330b8ab.chunk.js.map",
+    "static/js/3.6b21b240.chunk.js": "/travel-bucketlist-manager/static/js/3.6b21b240.chunk.js",
+    "static/js/3.6b21b240.chunk.js.map": "/travel-bucketlist-manager/static/js/3.6b21b240.chunk.js.map",
+    "index.html": "/travel-bucketlist-manager/index.html",
+    "static/css/main.07427c54.chunk.css.map": "/travel-bucketlist-manager/static/css/main.07427c54.chunk.css.map",
+    "static/js/2.d330b8ab.chunk.js.LICENSE.txt": "/travel-bucketlist-manager/static/js/2.d330b8ab.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/travel-bucketlist-manager/static/media/Wave1.a76691d4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3176daa7.js",
+    "static/js/runtime-main.32513c6c.js",
     "static/js/2.d330b8ab.chunk.js",
-    "static/css/main.d5d1d1d2.chunk.css",
+    "static/css/main.07427c54.chunk.css",
     "static/js/main.bb171457.chunk.js"
   ]
 }
