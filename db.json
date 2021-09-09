@@ -1,0 +1,26 @@
+{
+  "lists": [
+    {
+      "text": "Get stunned by the Great Pyramid of Giza",
+      "id": 1,
+      "completed": true
+    },
+    {
+      "text": "Walk along the Great Wall of China",
+      "id": 2,
+      "completed": false
+    },
+    {
+      "text": "Explore Petra",
+      "id": 3
+    },
+    {
+      "text": "Visit the Colosseum",
+      "id": 4
+    },
+    {
+      "text": "Visit the Colosseum",
+      "id": 5
+    }
+  ]
+}
